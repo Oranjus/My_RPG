@@ -1,0 +1,14 @@
+0 --> Caillou large
+1 --> Feu de camp
+2 --> Souche
+3 --> Grand Arbre
+4 --> Petit Arbre
+5 --> Sapin
+6 --> Coffre
+7 --> Maison1
+8 --> Maison2
+9 --> Maison3
+10 --> Lampadaire gauche
+11 --> Lampadaire droite
+12 --> Grand cactus
+13 --> Petit cactus
