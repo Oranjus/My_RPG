@@ -30,7 +30,7 @@ your game.
 Information on how to play the game can all be found in the game's dedicated menu.
 
 # Authors
-Git --> Oranjus ﾒ²
-Git --> raphaelCamblong
-Git --> ElouanSavy
-Git --> HyppolyteDavid
+- Git --> Oranjus ﾒ²
+- Git --> raphaelCamblong
+- Git --> ElouanSavy
+- Git --> HyppolyteDavid
